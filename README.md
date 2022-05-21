@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gonzaloalvarez4, Gonzalo Álvarez Acevedo
-- 🌱 I’m currently estudiando Ingeniería Informática
+- 👋 Hola, soy @gonzaloalvarez4, Gonzalo Álvarez Acevedo
+- 🌱 Actualmente estoy estudiando el grado de Ingeniería Informática
 - 📫  gon_al_ac@hotmail.com
 - En esta página  están subidos algunos códigos básicos que he hecho.
 <!---
